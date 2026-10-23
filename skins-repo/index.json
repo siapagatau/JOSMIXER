@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "repo": "skin-mixer-hp",
+  "kind": "mixer",
+  "updated": "2026-10-23",
+  "skins": [
+    {
+      "id": "skin-01",
+      "name": "Mixer Studio",
+      "version": "1.0",
+      "author": "Mixer",
+      "path": "skins/skin-01/",
+      "files": {
+        "skin.json": {
+          "sha256": "f9a35fd850913b718db6c45428979ad3e6d19037ab0bf999cecdbf63c6b81342",
+          "size": 8690
+        },
+        "skin.svg": {
+          "sha256": "27307a696069abfbb422d3814225955f1495eeacc1a35d0b026c8d6f9a82a56f",
+          "size": 50932
+        },
+        "preview.svg": {
+          "sha256": "796371871910fffcc3338c7378bbb5660f36e968bdbd19c62180d7b28d29a85c",
+          "size": 61407
+        }
+      }
+    }
+  ]
+}
